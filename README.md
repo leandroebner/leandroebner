@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![leandroebner's Stats](https://github-readme-stats.vercel.app/api?username=leandroebner&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![leandroebner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroebner&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![leandroebner's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leandroebner&theme=dark&hide_border=false)
+<div class="flex w-full flex-col items-center"><img class="output" src="https://github-readme-stats.vercel.app/api?username=leandroebner&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats"><img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=leandroebner&amp;theme=dark&amp;hide_border=false" alt="github streak"><img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroebner&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages"></div>
 
 <!--
 **leandroebner/leandroebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
